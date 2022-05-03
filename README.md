@@ -1,5 +1,6 @@
 # Extended_Unity_First_Person_Controller
-Implements additional features to Unity default first person controller(2017) 
+Implements additional features to Unity default first person controller(2017);
+
 mobility options like wall running and ledge vaulting using raycasting info
 Double Jumping
 Leaning
